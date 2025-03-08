@@ -37,7 +37,7 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 
 
 
-<h2 align="center"> "I am an expert at making others happy😜" </h2>
+<h2 align="center"> 😎I am an expert at making others happy😜 </h2>
 
 
 <h2 align="center"> 🔧👨🏻‍💻🎮😎 </h2>
@@ -123,12 +123,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 
 
-
- ![](https://github-trophies.vercel.app/?username=0xCaptainFahim)
-
-
-
-# 🙋‍♂️ Captain is here 😎
+<h2 align="center"> 🙋‍♂️ Captain is here 😎 </h2>
 
 <div align="center"> 
   <a href="mailto:mdfahimchowdhury28@gmail.com">
