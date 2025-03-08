@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "sudo-Fahim's Main-Domain"
+title                    : "👑sudo-Fahim's Main-Domain👑"
 title_separator          : "-"
 name                     : &name "Md. Fahim Shakil Chowdhury"
 description              : &description "Security Researcher || Programmer || Developer"
@@ -22,13 +22,13 @@ repository               : "0xCaptainFahim/0xCaptainFahim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "CaptainFahim.png"
   name             : "Md. Fahim Shakil Chowdhury"
-  pronouns         : "he/him/Captain"  # example: "he/him"  
+  pronouns         : "Call me Captain👑"  # example: "he/him"  
   bio              : "CSE Student || Developer || Security Researcher || Programmer || NASA, Cisco, Rakuten, Lenovo, MonashUni, AllState, StateOfCalifornia, USGeo.... 20+HallofFamer"
-  location         : "Dhaka||Bangladesh"
+  location         : "Dhaka || Bangladesh"
   employer         : "Security Researcher || Programmer || Developer"
-  education        : "B.Sc. in CSE || AUST"
+  education        : "B.Sc. in CSE || Ahsanullah University of Science and Technology"
   uri              : # URL
   email            : "mdfahimchowdhury28@gmail.com" 
 
