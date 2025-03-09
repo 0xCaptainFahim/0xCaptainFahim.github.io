@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "👑sudo Fahim👑"
-title_separator          : "-"
+title                    : "👑0xCaptainFahim👑"
+title_separator          : "➡️"
 name                     : &name "Md. Fahim Shakil Chowdhury"
 description              : &description "Security Researcher || Programmer || Developer"
 url                      : https://0xcaptainfahim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"

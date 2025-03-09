@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👨🏻‍💻Main Domain👨🏻‍💻"
+title: "Main Domain🎯"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
