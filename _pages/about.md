@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Assalamualaikum, I'm Fahim!👑"
+title: #""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,13 +26,30 @@ redirect_from:
 <h2 align="center"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>   </h2>
 
 
-<h2 align="center"> 😎 WhoAmI ---> 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃</> </h2>
+<h2 align="center"> 😎 WhoAmI ➡️ 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃</> </h2>
 
 
 
-**`0xCaptainFahim --> (Programmer / Developer/ Security Researcher)`**
+**`0xCaptainFahim ➡️ (Programmer / Developer/ Security Researcher)`**
 
-My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, developer, and security researcher with a strong interest in both development and cybersecurity. I am currently pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at Ahsanullah University of Science and Technology, where I have built a solid foundation in programming, system architecture, and cybersecurity practices. I have worked on various projects across different domains. I developed two 2D games using C++ and iGraphx: Treasure Hunt, an interactive adventure, and Warrior of the Dark Shadow, a dark fantasy action game inspired by Demon Slayer. These projects reflect my interest in game development and my ability to create immersive experiences using graphical libraries. I also developed a multifunctional Hospital Management System mobile app, designed to streamline healthcare operations with features like patient management and appointment scheduling. In addition, I have built over four websites, including two versions of my personal portfolio (one using Google Sites, another with JavaScript), and a Dream Car Dealership site using ASP.NET and C#. I also created a Scientific Calculator using Java, further showcasing my problem-solving abilities and programming skills. As a bug bounty hunter, I have earned over 10 Hall of Fame entries for discovering vulnerabilities on various platforms, including private company programs. My work has allowed me to apply my expertise in penetration testing and vulnerability assessment in real-world scenarios. Currently, I am conducting thesis research on integrating machine learning with behavioral biometrics, focusing on continuous user authentication, intrusion detection, and insider threat detection, while also expanding my knowledge in bug bounty hunting to align with my long-term goals in cybersecurity.
+**┌──(𝐧𝐨𝐭𝐡𝐚𝐜𝐤𝐞𝐫㉿0𝐱𝐂𝐚𝐩𝐭𝐚𝐢𝐧𝐅𝐚𝐡𝐢𝐦)-[~]**
+**└─$**
+My name is 𝓜𝓭. 𝓕𝓪𝓱𝓲𝓶 𝓢𝓱𝓪𝓴𝓲𝓵 𝓒𝓱𝓸𝔀𝓭𝓱𝓾𝓻𝔂, and I am a 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓, 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒓𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕 𝒊𝒏 𝒃𝒐𝒕𝒉 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚. I am currently pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at Ahsanullah University of Science and Technology, where I have built a solid foundation in programming, system architecture, and cybersecurity practices.
+
+
+ I have worked on various projects across different domains. I developed 𝒕𝒘𝒐 2𝑫 𝒈𝒂𝒎𝒆𝒔 𝒖𝒔𝒊𝒏𝒈 𝑪++ 𝒂𝒏𝒅 𝒊𝑮𝒓𝒂𝒑𝒉𝒙: 𝑻𝒓𝒆𝒂𝒔𝒖𝒓𝒆 𝑯𝒖𝒏𝒕, 𝒂𝒏 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝒂𝒅𝒗𝒆𝒏𝒕𝒖𝒓𝒆, 𝒂𝒏𝒅 𝑾𝒂𝒓𝒓𝒊𝒐𝒓 𝒐𝒇 𝒕𝒉𝒆 𝑫𝒂𝒓𝒌 𝑺𝒉𝒂𝒅𝒐𝒘, a dark fantasy action game inspired by Demon Slayer. These projects reflect my interest in game development and my ability to create immersive experiences using graphical libraries. 
+
+
+I also developed a 𝒎𝒖𝒍𝒕𝒊𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒂𝒍 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝑺𝒚𝒔𝒕𝒆𝒎 𝒎𝒐𝒃𝒊𝒍𝒆 𝒂𝒑𝒑 designed to streamline healthcare operations with features like patient management and appointment scheduling. In addition, I have 𝒃𝒖𝒊𝒍𝒕 𝒐𝒗𝒆𝒓 𝒇𝒐𝒖𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆𝒔, including 𝒕𝒘𝒐 𝒗𝒆𝒓𝒔𝒊𝒐𝒏𝒔 𝒐𝒇 𝒎𝒚 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒑𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 (one using Google Sites, another with JavaScript), and a 𝑫𝒓𝒆𝒂𝒎 𝑪𝒂𝒓 𝑫𝒆𝒂𝒍𝒆𝒓𝒔𝒉𝒊𝒑 𝒔𝒊𝒕𝒆 𝒖𝒔𝒊𝒏𝒈 𝑨𝑺𝑷.𝑵𝑬𝑻 𝒂𝒏𝒅 𝑪#. I also created a 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒇𝒊𝒄 𝑪𝒂𝒍𝒄𝒖𝒍𝒂𝒕𝒐𝒓 𝒖𝒔𝒊𝒏𝒈 𝑱𝒂𝒗𝒂, further showcasing my problem-solving abilities and programming skills. 
+
+
+As a bug bounty hunter, I have 𝒆𝒂𝒓𝒏𝒆𝒅 𝒐𝒗𝒆𝒓 15 𝑯𝒂𝒍𝒍 𝒐𝒇 𝑭𝒂𝒎𝒆 entries for discovering vulnerabilities on various platforms, including private company programs. My work has allowed me to apply my expertise in penetration testing and vulnerability assessment in real-world scenarios.
+
+
+ Currently, I am conducting thesis research on integrating 𝒎𝒂𝒄𝒉𝒊𝒏𝒆 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒃𝒆𝒉𝒂𝒗𝒊𝒐𝒓𝒂𝒍 𝒃𝒊𝒐𝒎𝒆𝒕𝒓𝒊𝒄𝒔, focusing on continuous 𝒖𝒔𝒆𝒓 𝒂𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄𝒂𝒕𝒊𝒐𝒏, 𝒊𝒏𝒕𝒓𝒖𝒔𝒊𝒐𝒏 𝒅𝒆𝒕𝒆𝒄𝒕𝒊𝒐𝒏, 𝒂𝒏𝒅 𝒊𝒏𝒔𝒊𝒅𝒆𝒓 𝒕𝒉𝒓𝒆𝒂𝒕 𝒅𝒆𝒕𝒆𝒄𝒕𝒊𝒐𝒏, while also expanding my knowledge in bug bounty hunting to align with my long-term goals in cybersecurity.
+
+
+**`Catch me on Github:`** "𝒉𝒕𝒕𝒑𝒔://𝒈𝒊𝒕𝒉𝒖𝒃.𝒄𝒐𝒎/0𝒙𝑪𝒂𝒑𝒕𝒂𝒊𝒏𝑭𝒂𝒉𝒊𝒎"
 
 
 
@@ -58,7 +75,7 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 
 <hr/>
 <div align="center">
-  <h2>🐍Fake Friends are Undermining My Contributions 🐍</h2>
+  <h2>🐍Fake Friends are Undermining My Contributions🐍</h2>
   <br>
 
 <!--   green snake -->
@@ -71,6 +88,12 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 </div>
 <hr/>
 
+
+<div align="center"> <h2>🐍 Fake Friends are Undermining My Contributions 🐍</h2> <br> <img alt="snakes eating my contributions" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"/> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> <br/><br/><br/> </div> <hr/>
+
+🐍 Fake Friends are Undermining My Contributions 🐍
+
+<img alt="snakes eating my contributions" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"/> snake eating my contributions
 
 
 
@@ -116,7 +139,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
 
 
 
