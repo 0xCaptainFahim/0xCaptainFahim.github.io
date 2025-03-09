@@ -34,6 +34,8 @@ redirect_from:
 
 **┌──(𝐧𝐨𝐭𝐡𝐚𝐜𝐤𝐞𝐫㉿0𝐱𝐂𝐚𝐩𝐭𝐚𝐢𝐧𝐅𝐚𝐡𝐢𝐦)-[~]**
 **└─$**
+
+
 My name is 𝓜𝓭. 𝓕𝓪𝓱𝓲𝓶 𝓢𝓱𝓪𝓴𝓲𝓵 𝓒𝓱𝓸𝔀𝓭𝓱𝓾𝓻𝔂, and I am a 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓, 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒓𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕 𝒊𝒏 𝒃𝒐𝒕𝒉 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚. I am currently pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at Ahsanullah University of Science and Technology, where I have built a solid foundation in programming, system architecture, and cybersecurity practices.
 
 
