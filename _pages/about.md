@@ -33,6 +33,8 @@ redirect_from:
 **`0xCaptainFahim ➡️ (Programmer / Developer/ Security Researcher)`**
 
 **┌──(𝐧𝐨𝐭𝐡𝐚𝐜𝐤𝐞𝐫㉿0𝐱𝐂𝐚𝐩𝐭𝐚𝐢𝐧𝐅𝐚𝐡𝐢𝐦)-[~]**
+
+
 **└─$**
 
 
@@ -147,7 +149,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
    </a>
      <a href="https://app.hackthebox.com/0xCaptainFahim" target="_blank">
 	<img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" target="_blank" />
-</div>
+
 
 
 
