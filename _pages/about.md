@@ -74,27 +74,7 @@ As a bug bounty hunter, I have 𝒆𝒂𝒓𝒏𝒆𝒅 𝒐𝒗𝒆𝒓 15 𝑯
 
 
 <hr/>
-<div align="center">
-  <h2>🐍Fake Friends are Undermining My Contributions🐍</h2>
-  <br>
-
-<!--   green snake -->
-<img alt="snakes eating my contributions" src=https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)/>
-
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
-  <br/><br/><br/>
-
-</div>
-<hr/>
-
-
-<div align="center"> <h2>🐍 Fake Friends are Undermining My Contributions 🐍</h2> <br> <img alt="snakes eating my contributions" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"/> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> <br/><br/><br/> </div> <hr/>
-
-🐍 Fake Friends are Undermining My Contributions 🐍
-
-<img alt="snakes eating my contributions" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"/> snake eating my contributions
-
+<div align="center"> <h2>🐍 Fake Friends are Undermining My Contributions 🐍</h2> <br> <img alt="snakes eating my contributions" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"/> </div> <hr/>
 
 
 
