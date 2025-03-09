@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "👑sudo-Fahim's Main-Domain👑"
+title                    : "👑sudo Fahim👑"
 title_separator          : "-"
 name                     : &name "Md. Fahim Shakil Chowdhury"
 description              : &description "Security Researcher || Programmer || Developer"
@@ -90,7 +90,7 @@ author:
   avatar           : "CaptainFahim.png"
   name             : "Md. Fahim Shakil Chowdhury"
   pronouns         : "Call me Captain👑"  # example: "he/him"  
-  bio              : "CSE Student || Developer || Security Researcher || Programmer || NASA, Cisco, Rakuten, Lenovo, MonashUni, AllState, StateOfCalifornia, USGeo.... 20+HallofFamer"
+  bio              : "👑 CyberSecurity Researcher || CAPv2 | CNSP | CASA | CEH&PT | BTJA | CRT-ID | CWAP | VAPT || NASA, Cisco, Rakuten, Lenovo, U.S.Geo & 15+HoF || Secured 30+ CompaniesGlobally || Top10%@THM || Developer || Problem Solver 👑"
   location         : "Dhaka || Bangladesh"
   education        : "B.Sc. in CSE || Ahsanullah University of Science and Technology"
   uri              : # URL
